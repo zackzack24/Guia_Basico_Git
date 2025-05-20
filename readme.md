@@ -8,7 +8,7 @@ Lembre-se que só de apertar o ENTER o comando já inicia então aperte somente 
 
 git init (iniciliza o GIT no projeto)
 
-git add README.md (Adiciona o README.MD, eu prefiro já criar ele dentro do VSCODE, tanto faz, mesmo criando manualmente é necessário fazer esse comendo)
+git add README.md (Adiciona o README.MD, eu prefiro já criar ele dentro do VSCODE, tanto faz, mesmo criando manualmente é necessário fazer esse comando)
 
 git commit -m "nome do seu commit" (aqui fazemos o commit, dê o nome que desejar)
 
