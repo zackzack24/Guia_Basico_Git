@@ -38,5 +38,6 @@ Se houver, então vai aparecer as credenciais e o login de quem usou a máquina 
 Para remover as credenciais digite no terminal:
 
 git config --global --unset-all user.name
+
 git config --global --unset-all user.email
  
