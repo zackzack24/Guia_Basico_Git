@@ -11,9 +11,13 @@
 ```bash
 sudo apt update
 sudo apt install git
+```
 
-### Verificação:
+### Verificação
 ```bash
 git --version
-# Deve mostrar: git version 2.x.x
+Deve mostrar: git version 2.x.x 
+```
+
+
 

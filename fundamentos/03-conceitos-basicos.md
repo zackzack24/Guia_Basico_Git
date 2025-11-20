@@ -13,6 +13,6 @@ Um commit é um snapshot (foto instantânea) do repositório em um determinado m
 Uma ramificação é uma linha de desenvolvimento independente.
 
 ## Working Directory, Staging Area e Repository
-- **Working Directory**: onde você trabalha com os arquivos.
-- **Staging Area**: uma área intermediária onde você prepara as mudanças para o commit.
-- **Repository**: onde o Git armazena os commits.
+- Working Directory: onde você trabalha com os arquivos.
+- Staging Area: uma área intermediária onde você prepara as mudanças para o commit.
+- Repository: onde o Git armazena os commits.
