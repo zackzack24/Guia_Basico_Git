@@ -7,7 +7,7 @@ Um repositório é um local onde o Git armazena os arquivos e o histórico de um
 
 ```bash
 ## Commit
-Um commit é um snapshot (foto instantânea) do repositório em um determinado momento.
+Um commit é um snapshot ou foto instantânea do repositório em um determinado momento.
 ```
 
 ```bash
