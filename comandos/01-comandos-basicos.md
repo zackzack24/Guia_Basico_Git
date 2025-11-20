@@ -7,7 +7,7 @@ git init
 
 ## Clonar um repositório
 ```bash
-git clone "<url>"
+git clone <url>
 ```
 
 ## Verificar Status
@@ -17,7 +17,7 @@ git status
 
 ## Adicionar arquivos ao staging
 ```bash
-git add "<arquivo>"
+git add <arquivo>
 git add .  ## adiciona todos os arquivos
 ```
 
