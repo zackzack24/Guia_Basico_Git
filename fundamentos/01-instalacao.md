@@ -6,6 +6,12 @@
 3. Execute e siga o assistente de instalação
 4. **Importante**: Marque "Git Bash Here" nas opções
 
+## Linux
+### Debian/Ubuntu
+```bash
+sudo apt update
+sudo apt install git
+
 ### Verificação:
 ```bash
 git --version
