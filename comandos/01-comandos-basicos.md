@@ -1,6 +1,7 @@
 # Comandos Básicos do Git
 
 ## Inicializar um repositório
+Nunca faça esse comando mais de uma vez no mesmo repositório!!
 ```bash
 git init
 ```
