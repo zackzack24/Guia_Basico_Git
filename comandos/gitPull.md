@@ -1,4 +1,4 @@
-# Git Pull 
+![picture alt](https://GIT PULL.co/600x200)
 
 > [!IMPORTANT]  
 > Antes de um git pull, é preciso salvar quaisquer alterações locais não confirmadas usando git stash, verificar se o repositório local está rastreando o branch remoto correto com git remote show origin, e fazer o git fetch para visualizar as mudanças sem mesclá-las imediatamente. Se você preferir um histórico mais limpo, utilize git pull --rebase para rebasear as alterações locais sobre as remotas. 
