@@ -1,5 +1,4 @@
-
-# Ramificaçôes ou Branches
+# Ramificações ou Branches
 
 ## Criar uma nova branch
 A branch padrão é a branch MAIN
