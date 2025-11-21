@@ -25,13 +25,13 @@ git add .  ## adiciona todos os arquivos
 ```
 
 ## Fazer ou Nomear commit
-Veja a convenção de nomes de commits aqui ***[Strong emphasized text](https://www.conventionalcommits.org/en/v1.0.0/)***
+Veja a convenção de nomes de commits  ***[aqui](https://www.conventionalcommits.org/en/v1.0.0/)***
 ```bash
 git commit -m "mensagem do seu commit"
 ```
 
 ## Adicionar ao Repositório
-Envia as alterações (commits) do seu repositório local para um repositório remoto
+Envia as alterações (commits) do seu repositório local para o seu repositório remoto do git hub
 ```bash
 git push 
 ```
