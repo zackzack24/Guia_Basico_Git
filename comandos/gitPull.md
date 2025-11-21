@@ -3,7 +3,7 @@
 > [!IMPORTANT]  
 > Antes de um git pull, é preciso salvar quaisquer alterações locais não confirmadas usando git stash, verificar se o repositório local está rastreando o branch remoto correto com git remote show origin, e fazer o git fetch para visualizar as mudanças sem mesclá-las imediatamente. Se você preferir um histórico mais limpo, utilize git pull --rebase para rebasear as alterações locais sobre as remotas. 
 
-- Cuidados importantes antes de um git pull
+- Cuidados importantes antes de um Git Pull
     - Salve suas alterações: Antes de puxar as atualizações, certifique-se de que não há alterações de código não salvas. Use git stash para armazenar temporariamente essas modificações e evitar conflitos.
     - Verifique o branch correto: É crucial garantir que você está atualizando o branch local correto. Execute git remote show origin para confirmar que seu branch local está rastreando a branch remota certa.
     - Veja as mudanças primeiro: Utilize git fetch para buscar as alterações do repositório remoto sem aplicá-las imediatamente. Isso permite que você revise os novos commits e se prepare para possíveis ajustes.
