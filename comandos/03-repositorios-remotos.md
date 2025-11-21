@@ -17,7 +17,7 @@ git push -u origin <branch>
 ```
 
 ## Atualizar repositório local com changes do remoto
-Há uma explicação única somente para este assunto,veja aqui ***[aqui]colarLinkAposCommit***
+Há uma explicação única somente para este assunto,veja aqui ***[Git Pull](https://github.com/zackzack24/Guia_Basico_Git/blob/main/comandos/gitPull.md)***
 ```bash
 git pull
 ```
