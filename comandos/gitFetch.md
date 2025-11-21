@@ -8,9 +8,9 @@
     - Permite a revisão: Antes de mesclar as alterações, você pode inspecionar o histórico remoto e compará-lo com o seu branch local para entender as mudanças usando comandos como git log ou git diff.
     - Evita conflitos acidentais: Como o fetch não faz a fusão automática, ele evita que conflitos inesperados ocorram imediatamente na sua árvore de trabalho. Você pode resolver os conflitos localmente, de forma mais controlada.
     - Escolha o próximo passo com cuidado: Após o fetch, você tem a liberdade de decidir como integrar as alterações.
-             - git pull: Se você deseja a abordagem mais rápida, use git pull para baixar e aplicar as alterações de uma vez.
-             - git merge: Você pode fazer um git merge manual para juntar as alterações ao seu branch atual.
-             - git rebase: Para um histórico de commits mais linear, você pode optar por git rebase para reorganizar seus commits após o fetch.
+      - git pull: Se você deseja a abordagem mais rápida, use git pull para baixar e aplicar as alterações de uma vez.
+      - git merge: Você pode fazer um git merge manual para juntar as alterações ao seu branch atual.
+      - git rebase: Para um histórico de commits mais linear, você pode optar por git rebase para reorganizar seus commits após o fetch.
     - Gerenciamento de tags: Use a opção --prune para remover tags locais que não existem mais no repositório remoto. Você também pode configurar a remoção automática de tags com git config remote.<nome>.pruneTags true.  
 
 
