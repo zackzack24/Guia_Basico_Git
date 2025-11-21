@@ -12,7 +12,7 @@
       - git merge: Você pode fazer um git merge manual para juntar as alterações ao seu branch atual.
       - git rebase: Para um histórico de commits mais linear, você pode optar por git rebase para reorganizar seus commits após o fetch.
     - Gerenciamento de tags: Use a opção 
-      - --prune para remover tags locais que não existem mais no repositório remoto. Você também pode configurar a remoção automática de tags com 
-      - git config remote.<nome>.pruneTags true.  
+      - --prune: para remover tags locais que não existem mais no repositório remoto. 
+  
 
 
